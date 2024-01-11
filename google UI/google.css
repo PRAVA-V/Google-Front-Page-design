@@ -1,0 +1,90 @@
+.container {
+    text-align: center;
+}
+
+.nav {
+    width: 20%;
+    text-align: right;
+    margin-left: auto;
+    margin-top: 21px;
+    font-size: 17px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #535353;
+    margin-left: 17px;
+}
+
+.nav #y {
+    border: 2px solid black;
+    border-radius: 40px;
+    padding: 8px 9px;
+    text-align: center;
+    background-color: #3c867a;
+    color: #c0e2de;
+    font-size: 11px;
+    margin-left: 11px;
+    border-style: none;
+    font-weight: bolder;
+}
+
+.google {
+    margin: 20px;
+    font-size: 64px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    letter-spacing: -9px;
+}
+
+.google #first-letter {
+    color: #4e82eb;
+    font-size: 84px;
+}
+
+.google #second-letter {
+    color: #d94e40;
+}
+
+.google #third-letter {
+    color: #f2bd3c;
+}
+
+.google #forth-letter {
+    color: #5084f1;
+}
+
+.google #fifth-letter {
+    color: #58a55b;
+}
+
+.google #sixth-letter {
+    color: #ce4f33;
+}
+
+.search input[type="text"] {
+    margin: 2px;
+    padding: 13px;
+    border: 2px solid #e1e1e1;
+    width: 40%;
+    border-radius: 40px;
+    border-color: #e1e1e1;
+}
+
+.google1 {
+    margin: 45px;
+}
+
+.google1 button {
+    margin: auto;
+    margin-left: 23px;
+    border: none;
+}
+
+#p {
+    font-size: 13px;
+}
+
+#search {
+    cursor: pointer;
+}
